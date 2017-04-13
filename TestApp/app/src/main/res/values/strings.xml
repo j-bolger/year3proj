@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Go Compare</string>
+
+    <string-array name="list">
+        <item>I</item>
+        <item>Go</item>
+        <item>Hard</item>
+        <item>Like</item>
+        <item>Vladamir</item>
+        <item>Putin</item>
+        <item>...</item>
+        <item>Go</item>
+        <item>Hard</item>
+        <item>Like</item>
+        <item>Vladamir</item>
+        <item>Putin</item>
+    </string-array>
+</resources>
